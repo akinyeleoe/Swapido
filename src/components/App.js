@@ -10,7 +10,7 @@ class App extends Component {
         <nav className="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
           <a
             className="navbar-brand col-sm-3 col-md-2 mr-0"
-            href="neroswap.io"
+            href="swapido.io"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -28,8 +28,14 @@ class App extends Component {
                 >
                   <img src={logo} className="App-logo" alt="logo" />
                 </a>
-                <h1><span>NeroSwap</span></h1> 
-                <h3>Cut the exposure. Deposit Naira. Save in US $</h3>
+                <h1><span>swapido</span></h1> <br />
+                <h3>Cut the exposure:
+                 Deposit Naira, <br />
+                 save in any currency & <br />
+                 Earn <em>11% </em> APY on your deposit!</h3>
+
+              
+                
                 <button 
                   className="App-link"
                   href="neroswap.io"
