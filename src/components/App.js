@@ -34,8 +34,6 @@ class App extends Component {
                  save in any currency & <br />
                  Earn <em>11% </em> APY on your deposit!</h3>
 
-              
-                
                 <button 
                   className="App-link"
                   href="neroswap.io"
